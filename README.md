@@ -1,3 +1,5 @@
-# Flighty Mango
+# Merry Market
 
-Preact + Vite + Eslint + Prettier + TailwindCSS
+Website for local community market
+
+Hosted on https://merry-market.surge.sh/
