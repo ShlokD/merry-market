@@ -4,7 +4,7 @@
 
 body {
   min-height: 100vh;
-  font-family: 'Bitter', serif;
+  font-family: "Bitter", serif;
 
   overflow: hidden;
 }
@@ -15,17 +15,17 @@ body {
 }
 
 @keyframes down {
- 0% {
-  transform: translateY(-150%)
- } 
- 100% {
-  transform: translateY(0);
- }
+  0% {
+    transform: translateY(-150%);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
 
-
 .transition-width {
-  transition: width 500ms linear, flex-grow 500ms linear, flex-shrink 500ms linear;
+  transition: width 500ms linear, flex-grow 500ms linear,
+    flex-shrink 500ms linear;
 }
 
 ::-webkit-scrollbar {
